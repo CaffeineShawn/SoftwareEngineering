@@ -53,8 +53,8 @@
 > ![img_16.png](img_16.png)
 
 ##事件跟踪图 (顺序图)
-Hello
-![img_17.png](img_17.png)
+> 是的就是这样
+> ![img_17.png](img_17.png)
 
 
 
